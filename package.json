@@ -1,0 +1,25 @@
+{
+  "name": "sjf_ai",
+  "version": "1.0.0",
+  "description": "MCM PORTAL World 배경 이미지를 OpenAI 이미지 생성 API로 사전 생성하는 CLI 툴",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "generate": "tsx src/generate.ts",
+    "sync": "tsx src/sync-to-frontend.ts",
+    "list-combinations": "tsx src/prompts.ts",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "openai": "^4.68.4"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.2",
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.2"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
