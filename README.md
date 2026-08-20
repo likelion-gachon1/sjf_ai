@@ -1,6 +1,6 @@
 # MCM PORTAL — 배경생성 (`sjf_ai`)
 
-> 멋사 대학 14기 해커톤 · 가천미인 · Challenge 03 : 360° 고객 경험
+> 멋사 대학 14기 해커톤 · 가천미인 · Challenge 02 :: 인터랙티브 리테일
 > Live ▸ https://mcm-portal.duckdns.org
 > Repos ▸ 프론트 sjf_track · 백엔드 sjf_BE · 배경생성 sjf_ai
 
